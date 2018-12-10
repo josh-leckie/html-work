@@ -1,0 +1,42 @@
+h1 {color: #8B4513;
+    font-size: 100px;
+    margin: auto;
+    text-align: center;
+}
+
+a {color: brown;
+}
+
+body {
+    background-image: url("https://www.lstatic.org/UserFiles/images/Arab-and-World/Diverts/Inside/Canada.jpg");
+    background-repeat: no-repeat;
+    background-color: moccasin;
+    background-size: auto;
+}
+
+.centreimage {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
+.bearimage1text {
+    padding-left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: cursive; 
+    text-align: center;
+    font-size: 15px;
+}
+
+/* change right, find way to align image top right */
+#bear-image2 {
+    position: absolute;
+    top: 0px;
+    right: 60px; 
+    width: 50%;
+    z-index: -1;
+}
+
+#beartablehead {color: red;
+}
