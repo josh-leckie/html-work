@@ -33,7 +33,7 @@ body {
 #bear-image2 {
     position: absolute;
     top: 0px;
-    right: 60px; 
+    right: 0px; 
     width: 50%;
     z-index: -1;
 }
